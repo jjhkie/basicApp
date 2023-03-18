@@ -61,8 +61,8 @@
 				B939C9E229C43AA800E75FAE /* README.md */,
 				B939C9C429C4387500E75FAE /* AppDelegate.swift */,
 				B939C9C629C4387500E75FAE /* SceneDelegate.swift */,
-				B939C9D929C43A6100E75FAE /* Section6 */,
 				B939C9D229C4387600E75FAE /* Info.plist */,
+				B939C9D929C43A6100E75FAE /* Section6 */,
 			);
 			path = basicApp;
 			sourceTree = "<group>";
